@@ -1,0 +1,1 @@
+Design a Single cycle 32-bit MIPS processor which have several instructions such as load, store and arithmetic operations that contain different modules such as Datapath, ALU, Register file and instruction memory. 
